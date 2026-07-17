@@ -1,8 +1,10 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Manish!+👋;Passionate+Software+Developer;AI+and+Cybersecurity+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Manish%20Dhangar&fontSize=70&fontColor=00f5d4&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Cybersecurity&descAlignY=58&descSize=18&descColor=a78bfa&animation=twinkling"/>
 </div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%9A%80;AI+Enthusiast+%F0%9F%A4%96;Cybersecurity+Advocate+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://github.com/manish8171">
