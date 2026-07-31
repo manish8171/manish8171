@@ -49,7 +49,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manish8171&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=manish8171&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=manish8171&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true" height="180"/>
 </p>
 
 <p align="center">
