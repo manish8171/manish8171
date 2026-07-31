@@ -57,7 +57,11 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00f5d4/manish8171" alt="Manish's GitHub Contribution Grid Calendar" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manish8171/manish8171/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manish8171/manish8171/output/github-snake.svg" />
+    <img alt="Manish's GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/manish8171/manish8171/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </p>
 
 ---
