@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manish8171&bg_color=0d1117&color=c77dff&line=7b2cbf&point=e0aaff&area=true&hide_border=true" width="100%"/>
+  <img src="https://ghchart.rshah.org/00f5d4/manish8171" alt="Manish's GitHub Contribution Grid Calendar" width="100%"/>
 </p>
 
 ---
