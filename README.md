@@ -48,16 +48,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manish8171&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=manish8171&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manish8171&show_icons=true&bg_color=0d1117&title_color=c77dff&text_color=e0aaff&icon_color=9d4edd&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=manish8171&background=0d1117&border=00000000&stroke=7b2cbf&ring=c77dff&fire=9d4edd&currStreakNum=c77dff&sideNums=e0aaff&sideLabels=c77dff&dates=a78bfa&hide_current_streak=true&hide_longest_streak=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manish8171&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manish8171&layout=compact&bg_color=0d1117&title_color=c77dff&text_color=e0aaff&hide_border=true&langs_count=8" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2ea44f/manish8171" alt="Manish's GitHub Contribution Grid" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manish8171&bg_color=0d1117&color=c77dff&line=7b2cbf&point=e0aaff&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
